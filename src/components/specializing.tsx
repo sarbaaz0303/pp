@@ -56,7 +56,7 @@ export default function Specializing() {
        Modern Design
       </h5>
       <p className="text-center text-slate-600 text-lg dark:text-slate-200">
-       A website should be designed for the people who will use it, so that's
+       A website should be designed for the people who will use it, so thats
        exactly what I do. User-focused design should be the primary goal of any
        website.
       </p>

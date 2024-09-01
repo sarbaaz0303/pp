@@ -17,7 +17,7 @@ export default function Contact() {
    <HeadingDivider title="Contact" />
    <Card className="w-full bg-inherit border-none grid grid-cols-1 md:grid-cols-2 gap-4 px-4 py-8">
     <CardHeader>
-     <CardTitle className="text-3xl">Let's Get in Touch</CardTitle>
+     <CardTitle className="text-3xl">Lets Get in Touch</CardTitle>
      <CardDescription className="text-xl">
       Feel free to reach out for collaborations or just a friendly hello!
      </CardDescription>
